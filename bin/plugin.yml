@@ -1,0 +1,6 @@
+name: SpawnEgg
+version: 1.0.0
+api-version: 1.16
+author: bk
+main: tk.pgfriends.spawnegg.Main
+description: spawn egg for ded mobs
