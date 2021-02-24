@@ -18,10 +18,9 @@ public class PlayerEvents implements Listener {
 	{
 		Random r = new Random();
 		
-		int ran1= r.nextInt(100);
-		int ran2= r.nextInt(100);
-		
-		if (!(ran1 == ran2)) { return; }
+		int ran1= r.nextInt(10000);
+
+		if (ran1 = 10000) { return; }
 		
 		
 		
